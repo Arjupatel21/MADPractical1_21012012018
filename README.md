@@ -1,12 +1,3 @@
 # MADPractical1_21012012018
-![Screenshot (1)](https://user-images.githubusercontent.com/111947429/186329362-6b5107ce-e886-42c8-beac-9660e6fc6d9b.png)
-![Screenshot (2)](https://user-images.githubusercontent.com/111947429/186329887-a5f694ac-f5f3-44e6-9fb0-977ba4767c2c.png)
-![Screenshot (3)](https://user-images.githubusercontent.com/111947429/186330455-0806ac7e-9c22-4af2-a6fc-ed9f5091b26e.png)
-![Screenshot (4)](https://user-images.githubusercontent.com/111947429/186333268-f9806537-8778-4e07-b78e-db75489b4d24.png)
-![Screenshot (5)](https://user-images.githubusercontent.com/111947429/186333279-a3ce4887-f74e-4a71-8bf4-a2a246d928bd.png)
-![Screenshot (6)](https://user-images.githubusercontent.com/111947429/186333310-656d965d-fcb6-4345-84f2-5c8757957fea.png)
-![Screenshot (7)](https://user-images.githubusercontent.com/111947429/186333317-feb36fa6-73e0-46f2-9eab-8e15bf616c75.png)
-![Screenshot (8)](https://user-images.githubusercontent.com/11194![Screenshot (9)](https://user-images.githubusercontent.com/111947429/186333333-f47012c0-83b4-49cb-aa9d-ad6e5e445f38.png)
-7429/186333322-560ee2f0-2118-424d-8e79-4a044f771bbd.png)
-![Screenshot (10)](https://user-images.githubusercontent.com/111947429/186333354-cd154cd7-0695-44af-a2a8-821dd4e423e3.png)
-![Screenshot (12)](https://user-images.githubusercontent.com/111947429/186333387-8b583933-9949-439e-81b8-ca597e249597.png)
+practical1.1
+![Screenshot (1)](https://user-images.githubusercontent.com/111947429/186881642-bb923049-9a34-4068-b6a9-4452c41c72a3.png)
